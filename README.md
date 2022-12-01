@@ -15,3 +15,5 @@ This code is messy because it should just work and I made this quick.
 2. enter your Instagram **Username**, **Password** and the url to your post you want to check.
 3. save the config file and start the bot and press ENTER to start
 4. let it run, it takes a bit until the bot is running because of the delay
+
+You can also use the exe file if you want.
