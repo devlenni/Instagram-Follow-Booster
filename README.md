@@ -1,4 +1,4 @@
-# Instagram-Like-Bot
+# Instagram-Follow-Booster
 
 This Instagram Follow Booster will look through you post for people who liked your post but don't follow you and will like 2 posts from them so they maybe get attention to you again and will follow you.
 
